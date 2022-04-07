@@ -1,5 +1,5 @@
 module.exports = {
-  content: ["*.php"],
+  content: ["./hardcode/index.html"],
   theme: {
     extend: {
       fontFamily:{

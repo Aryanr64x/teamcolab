@@ -24,7 +24,7 @@
                 </div>
                 <div class="mt-12">
                     <input  class="placeholder:text-gray-800 text-black p-2 rounded-md w-2/3"  placeholder="Provide Email For Early Access.." type="email"  /> 
-                    <button class="bg-brand text-gray-800 py-2 px-3 rounded-md hover:shadow-md hover:shadow-black hover:bg-yellow-600 hover:text-white"> Get Early Access </button>
+                    <button class="bg-brand text-gray-800 py-2 px-3 rounded-md hover:shadow-md hover:shadow-black hover:bg-yellow-600 hover:text-white transition-all duration-500"> Get Early Access </button>
                 </div>
             </div>
             <div class="basis-1/2">
@@ -36,8 +36,8 @@
 
 <section class="px-36">
         <div class="flex">
-            <div class="basis-1/2 text-center">
-                    <div class="text-5xl font-thin">
+            <div class="basis-1/2">
+                    <div class="text-5xl font-normal text-gray-600 bg-red-700" >
                             Your Hub For TeamWork
                     </div>
             </div>  
